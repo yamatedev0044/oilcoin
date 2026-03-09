@@ -25938,6 +25938,7 @@ function IN() {
         "Cross-chain deployment",
         "Multi-chain liquidity",
         "Global expansion",
+        "PetroDollar",
       ],
     },
   ];
